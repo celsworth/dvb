@@ -1,0 +1,14 @@
+bin/
+Makefile
+*.dSYM
+*.o
+*.bundle
+*.so
+*.a
+*.rbc
+*.swp
+mkmf.log
+pkg/
+tmp
+vendor
+Gemfile.lock
